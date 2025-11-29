@@ -4,7 +4,7 @@
   import path from 'path';
 
   export default defineConfig({
-    base:"/triftstoreepic/",
+    base:"/Triftstoreepic/",
     plugins: [react()],
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
